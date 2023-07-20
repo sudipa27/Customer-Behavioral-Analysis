@@ -1,4 +1,4 @@
-<h1>Behavioral Analysis of Restaurant Customers using SQL</h1>
+<h1>Behavorial Analysis of Restaurant Customers using SQL</h1>
 <hr>
 <h2>
   Objective :
